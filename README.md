@@ -7,12 +7,12 @@
 > 
 > MSCS, Georgia Tech, Graduated 2019
 > 
-> https://www.linkedin.com/in/laur-an/
+> [https://www.linkedin.com/in/laur-an/](https://www.linkedin.com/in/laur-an/)
 
 ---
 
 
-> <p style="align: center"><h1>Sample Projects<h1></p>
+> # Sample Projects
 
 | Project Name | Tools Demonstrated |
 |---|---|
