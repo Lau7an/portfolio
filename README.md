@@ -18,5 +18,6 @@
 |---|---|
 | [Weekly CS KPI Report](https://lookerstudio.google.com/reporting/e66086d0-98cb-414c-8f48-749c7f264694) - [Weekly CS KPI Datasource](https://docs.google.com/spreadsheets/d/1YeKGmMzsVPrcNwB3XPtrLMEBTizYJ0FAzasIUx9E04E/edit?usp=sharing) | Looker Studio, Google Sheets integration |
 | [Poshmark.com Resale Clothing Brand Analysis Dashboard](https://lookerstudio.google.com/reporting/0c101323-38be-44d7-9631-4d9b6608be71) | Looker Studio dashboard, Postgres database datasource integration |
+| [Risk Management Sample Spreadsheet](https://docs.google.com/spreadsheets/d/1dMrJr04dgMXhAeAiDmymwk0OJwPVZ3CPBRRgeBACun0/edit?usp=sharing) | Google Sheets, Index Match, Query Formula, Apps Scripts, Pivot Tables, Python, Google Colab |
 
 
